@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on the three-dimensional light field regulation and control
+- 🌱 I’m currently learning Deep Learning technology
+- ⚡ I'm a PhD student in Tsinghua University
 <!--
 **zhurz21/zhurz21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
