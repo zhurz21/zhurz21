@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 - 🔭 I’m currently working on the three-dimensional light field regulation and control
 - 🌱 I’m currently learning Deep Learning technology
 - ⚡ I'm a PhD student in Tsinghua University
